@@ -1,0 +1,9 @@
+show.c:106:6:diaplaySettingAMPM	1
+show.c:77:6:settingAMPM	3
+show.c:119:6:setDateAndTimeShow	7
+show.c:463:6:dealCrossingDay	44
+show.c:204:6:Increase	36
+show.c:334:6:Decrease	36
+show.c:11:6:extranceDateAndTime	6
+show.c:558:6:RTC_TimeAndDate_Show	12
+show.c:683:6:showSolarTerms	37

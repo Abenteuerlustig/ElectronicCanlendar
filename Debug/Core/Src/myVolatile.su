@@ -1,0 +1,6 @@
+../Core/Src/myVolatile.c:23:6:loadSettingOrignalValue	16	static
+../Core/Src/myVolatile.c:40:9:returnFlagBluetooth	0	static
+../Core/Src/myVolatile.c:45:6:clearBluetoothCommand	0	static
+../Core/Src/myVolatile.c:50:6:showWeather	8	static
+../Core/Src/myVolatile.c:59:6:showMonth	8	static
+../Core/Src/myVolatile.c:116:6:showDay	8	static

@@ -1,0 +1,10 @@
+song.c:11:6:stopMusic	1
+song.c:18:6:playMusicWithParameter	6
+song.c:49:6:tipsEnter	1
+song.c:61:6:tipsSelect	1
+song.c:163:6:playMusicMP3	4
+song.c:189:6:tipMP3	1
+song.c:200:6:alarmClockMusic	11
+song.c:261:6:resetMusic	1
+song.c:79:6:selectSong	7
+song.c:129:6:selectMusicMP3	5

@@ -1,0 +1,4 @@
+../Core/Src/alarmClock.c:76:6:setDateAndTimeShowAlarmClock	24	static
+../Core/Src/alarmClock.c:11:6:extranceAlarmClock	8	static
+../Core/Src/alarmClock.c:159:6:alarmClockReminder	16	static
+../Core/Src/alarmClock.c:178:6:checkAlarmClock	16	static

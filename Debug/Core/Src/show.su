@@ -1,0 +1,10 @@
+../Core/Src/show.c:166:6:diaplaySettingAMPM	24	static
+../Core/Src/show.c:116:6:settingAMPM	16	static
+../Core/Src/show.c:179:6:setDateAndTimeShow	24	static
+../Core/Src/show.c:523:6:dealCrossingDay	0	static
+../Core/Src/show.c:264:6:Increase	8	static
+../Core/Src/show.c:394:6:Decrease	8	static
+../Core/Src/show.c:11:6:extranceDateAndTime	24	static
+../Core/Src/show.c:618:6:RTC_TimeAndDate_Show	32	static
+../Core/Src/show.c:743:6:showSolarTerms	8	static
+../Core/Src/show.c:964:6:showSolarTermsScreen2	8	static

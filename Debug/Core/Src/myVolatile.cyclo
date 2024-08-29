@@ -1,0 +1,6 @@
+myVolatile.c:23:6:loadSettingOrignalValue	1
+myVolatile.c:40:9:returnFlagBluetooth	1
+myVolatile.c:45:6:clearBluetoothCommand	1
+myVolatile.c:50:6:showWeather	6
+myVolatile.c:59:6:showMonth	13
+myVolatile.c:116:6:showDay	31

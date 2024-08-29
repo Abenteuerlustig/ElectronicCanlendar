@@ -1,0 +1,4 @@
+../Core/Inc/font.h:622:6:font	0	static
+../Core/Src/main.c:196:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:97:5:main	8	static
+../Core/Src/main.c:247:6:Error_Handler	0	static,ignoring_inline_asm

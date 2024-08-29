@@ -1,0 +1,6 @@
+../Core/Src/song.c:11:6:playSong	48	static
+../Core/Src/song.c:43:6:stopMusic	24	static
+../Core/Src/song.c:50:6:playMusicWithParameter	48	static
+../Core/Src/song.c:76:6:tipsEnter	16	static
+../Core/Src/song.c:88:6:tipsSelect	24	static
+../Core/Src/song.c:106:6:selectSong	8	static

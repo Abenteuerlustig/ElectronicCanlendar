@@ -1,0 +1,2 @@
+../Core/Src/usart2Callback.c:10:6:HAL_UART_RxCpltCallback	48	static
+../Core/Src/usart2Callback.c:26:6:HAL_UART_TxCpltCallback	48	static

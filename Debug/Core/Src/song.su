@@ -1,0 +1,10 @@
+../Core/Src/song.c:11:6:stopMusic	24	static
+../Core/Src/song.c:18:6:playMusicWithParameter	32	static
+../Core/Src/song.c:49:6:tipsEnter	16	static
+../Core/Src/song.c:61:6:tipsSelect	24	static
+../Core/Src/song.c:163:6:playMusicMP3	32	static
+../Core/Src/song.c:189:6:tipMP3	24	static
+../Core/Src/song.c:200:6:alarmClockMusic	88	static
+../Core/Src/song.c:261:6:resetMusic	16	static
+../Core/Src/song.c:79:6:selectSong	16	static
+../Core/Src/song.c:129:6:selectMusicMP3	16	static

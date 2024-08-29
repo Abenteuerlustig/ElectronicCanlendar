@@ -1,0 +1,2 @@
+../Core/Src/blueTooth.c:10:6:checkReceiveIT	40	static
+../Core/Src/blueTooth.c:27:6:checkTransIT	40	static

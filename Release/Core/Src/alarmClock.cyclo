@@ -1,0 +1,4 @@
+alarmClock.c:76:6:setDateAndTimeShowAlarmClock	7
+alarmClock.c:11:6:extranceAlarmClock	8
+alarmClock.c:159:6:alarmClockReminder	1
+alarmClock.c:178:6:checkAlarmClock	8

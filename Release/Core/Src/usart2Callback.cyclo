@@ -1,0 +1,2 @@
+usart2Callback.c:10:6:HAL_UART_RxCpltCallback	2
+usart2Callback.c:26:6:HAL_UART_TxCpltCallback	2

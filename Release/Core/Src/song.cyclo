@@ -1,0 +1,6 @@
+song.c:11:6:playSong	7
+song.c:43:6:stopMusic	1
+song.c:50:6:playMusicWithParameter	4
+song.c:76:6:tipsEnter	1
+song.c:88:6:tipsSelect	1
+song.c:106:6:selectSong	3

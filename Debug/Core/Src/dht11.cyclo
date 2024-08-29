@@ -1,0 +1,6 @@
+dht11.c:15:6:Data_Out_Init	1
+dht11.c:28:6:Data_In_Init	1
+dht11.c:52:6:DHT11_start	1
+dht11.c:65:9:DHT11_rec_byte	5
+dht11.c:82:6:DHT11_rec_data	6
+dht11.c:118:6:showTempAndHumi	1

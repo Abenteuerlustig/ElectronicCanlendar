@@ -1,0 +1,14 @@
+oled.c:41:6:oled_write_cmd	1
+oled.c:55:6:oled_write_data	1
+oled.c:69:6:oled_write_long_data	1
+oled.c:83:6:oled_init	1
+oled.c:143:6:oled_update_screen	2
+oled.c:168:6:oled_clear	1
+oled.c:183:6:oled_all_on	1
+oled.c:199:6:oled_gotoXY	1
+oled.c:211:6:oled_drawpixel	4
+oled.c:238:6:oled_show_char	7
+oled.c:283:6:oled_show_china	9
+oled.c:341:6:oled_show_str	3
+oled.c:367:14:oled_pow	2
+oled.c:381:6:OLED_ShowNumber	6

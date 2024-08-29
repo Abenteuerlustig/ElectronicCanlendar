@@ -1,0 +1,3 @@
+../Core/Src/mq2.c:52:6:fireAlarm	24	static
+../Core/Src/mq2.c:59:6:displayFirmAlarm	16	static
+../Core/Src/mq2.c:18:6:MQ2_Scan	8	static
